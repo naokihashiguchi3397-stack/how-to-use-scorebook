@@ -1,1 +1,1 @@
-# how-to-use-scorebook
+# スコアブックの書き方
